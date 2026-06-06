@@ -1,4 +1,4 @@
-University Course and Exam Scheduler
+## University Course and Exam Scheduler
 Overview
 
 The University Course and Exam Scheduler is a C++ application that automatically generates conflict-free examination schedules for university courses.
@@ -78,20 +78,6 @@ Greedy Coloring
       ↓
 Exam Slot Assignment
 
-Future Improvements
-GUI Interface
-File Handling
-Database Integration
-Faculty Scheduling
-Classroom Allocation
-AI-Based Schedule Optimization
-Learning Outcomes
-Graph Construction
-Adjacency Matrix Representation
-Greedy Algorithms
-Conflict Detection
-Scheduling Problems
-C++ STL Usage
 Author
 
 Mahima Mishra
