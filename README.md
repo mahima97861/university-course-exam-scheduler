@@ -1,4 +1,4 @@
-# 🎓 University Course and Exam Scheduler
+# 🎓 University Courses and Exam Scheduler
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![Graph Theory](https://img.shields.io/badge/Graph-Theory-green)
