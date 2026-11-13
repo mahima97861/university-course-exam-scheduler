@@ -249,7 +249,7 @@ Feel free to fork this repository and submit pull requests.
 
 This project is licensed under the MIT License.
 
----
+----
 
 ## 👩‍💻 Author
 
@@ -263,6 +263,6 @@ This project is licensed under the MIT License.
 
 🚀 Passionate about Problem Solving and Software Development
 
----
+----
 
 ⭐ If you found this project useful, consider giving it a Star on GitHub!
